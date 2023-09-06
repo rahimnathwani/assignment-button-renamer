@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Assignment Button Renamer",
+  "version": "1.0",
+  "description": "Changes the text of the submit button on Gatech Instructure courses",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://gatech.instructure.com/courses/*/assignments/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
