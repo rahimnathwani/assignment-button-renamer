@@ -1,3 +1,6 @@
+# Note: the main feature of this extension (button renaming) and more (PDF preview) is now included in a better extension that Ansh Sikka made and published: https://chrome.google.com/webstore/detail/canvas-pre-submission-pre/micpkocdgpegjoejbjbkfagipgmbonkc
+I'll leave this repo up for posterity.
+
 # Assignment Button Renamer for Gatech OMSCS
 
 ## Introduction
